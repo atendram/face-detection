@@ -22,4 +22,5 @@ build/
 *.egg-info/
 .DS_Store
 Thumbs.db
+.uploads/
 serviceAccountKey.json
